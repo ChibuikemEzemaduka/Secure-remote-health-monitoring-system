@@ -1,3 +1,5 @@
+Please read the Project summary report for explanation of the system
+
 To implement the system, follow the steps below:
 
 Copy the flask server folder to a directory on your Windows PC
